@@ -4,6 +4,7 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
+  'Default is "World"'
   name = ARGV.first || "World";
   if (argc < 2)
     {
